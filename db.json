@@ -28,19 +28,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-02T16:12:25Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
