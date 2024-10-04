@@ -1,69 +1,95 @@
 {
     "articles": [
-        {
+{
             "source": {
                 "id": null,
-                "name": "ScienceAlert"
+                "name": "Gizmodo.com"
             },
-            "author": "Justin Stebbing, The Conversation, The Conversation",
-            "title": "New Report Links Alcohol to Six Major Cancer Types - ScienceAlert",
-            "description": "The statistics are sobering.",
-            "url": "https://www.sciencealert.com/new-report-links-alcohol-to-six-major-cancer-types",
-            "urlToImage": "https://www.sciencealert.com/images/2018-08/processed/alcohol_deaths_GBD_1024.jpg",
-            "publishedAt": "2024-10-03T01:30:20Z",
-            "content": "A little bit of alcohol was once thought to be good for you. However, as scientific research advances, we're gaining a clearer picture of alcohol's effect on health especially regarding cancer.\r\nThe … [+5441 chars]"
+            "author": "Ed Cara",
+            "title": "These Germs Are a Major Cancer Risk, New Report Highlights",
+            "description": "The American Association for Cancer Research's latest Cancer Progress Report highlights the risk posed by several viral and bacterial threats, including HPV.",
+            "url": "https://gizmodo.com/these-germs-are-a-major-cancer-risk-new-report-highlights-2000501401",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/HPV.jpg",
+            "publishedAt": "2024-09-20T17:55:02Z",
+            "content": "Some of the worst germs out there aren’t just making us sick for a short whilethey’re also laying the groundwork for cancer. A new report from scientists at the American Association for Cancer Resear… [+3307 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Newser"
+                "name": "Gizmodo.com"
             },
-            "author": "Arden Dier",
-            "title": "Breast Cancer Rates Climb Among the Young - Newser",
-            "description": "American Cancer Society report describes steady increase in diagnoses",
-            "url": "https://www.newser.com/story/357190/on-the-upward-trend-breast-cancer-before-50.html",
-            "urlToImage": "https://img2-azrcdn.newser.com/image/1563633-12-20241002165317.jpeg",
-            "publishedAt": "2024-10-02T21:23:00Z",
-            "content": "Overall death rates from breast cancer have fallen 44% over the last 35 years and by about 10% over the last decade. That's the good news. The bad news is that for American Indian and Alaska Native w… [+1801 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Melissa Rudy",
-            "title": "To reduce cancer risk, researchers recommend adopting these 4 healthy habits - Fox News",
-            "description": "Up to half of all cancers are caused by behavioral risk factors — which means they’re preventable. Researchers across Mass General Brigham have compiled four strategies for reducing risk.",
-            "url": "https://www.foxnews.com/health/reduce-cancer-risk-researchers-recommend-adopting-healthy-habits",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/cancer-prevention-split-1.jpg",
-            "publishedAt": "2024-10-02T08:30:00Z",
-            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+5586 chars]"
+            "author": "Adam Kovac",
+            "title": "Sweeping Review Finds No Link Between Cell Phones and Cancer",
+            "description": "The theory that holding a radiation-emitting device to your ear for hours could cause cancer certainly feels true, but decades of study has found no link.",
+            "url": "https://gizmodo.com/sweeping-review-finds-no-link-between-cell-phones-and-cancer-2000494874",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/cell-phone-cancer-study.jpg",
+            "publishedAt": "2024-09-04T21:15:56Z",
+            "content": "Thanksgiving is just a few months away, so it’s time to start studying for the annual screaming confrontation with weird relatives. This year, you can come prepared for a possible topic of conversati… [+3902 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WABC-TV"
+                "name": "BBC News"
             },
-            "author": "Stacey Sager",
-            "title": "Breast Cancer Awareness Month: Joan Lunden reflects 10 years after beating disease, urges women to be aware of breast density - ABC7 New York",
-            "description": "Ten years after she beat stage two triple negative breast cancer, former \"Good Morning America\" co-host Joan Lunden is fighting to help other women",
-            "url": "https://abc7ny.com/post/breast-cancer-awareness-month-joan-lunden-reflects-10-years-after-beating-disease-urges-women-aware-density/15379170/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/15379699_100124-wabc-joan-lunden-img.jpg?w=1600",
-            "publishedAt": "2024-10-01T15:24:47Z",
-            "content": "NEW YORK (WABC) -- Former \"Good Morning America\" co-host Joan Lunden is urging women to be aware of the link between the density of their breast tissue and their breast cancer risk.\r\nIn June 2014, Lu… [+2116 chars]"
+            "author": null,
+            "title": "Former Peruvian leader Alberto Fujimori dies at 86",
+            "description": "The ex-president, who was convicted of human rights abuses and corruption, died \"after a long battle with cancer\".",
+            "url": "https://www.bbc.com/news/articles/cy0r0rgrewlo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9dac/live/a735f360-709a-11ef-9f57-339422db4d62.png",
+            "publishedAt": "2024-09-12T00:24:47Z",
+            "content": "Peru's former President Alberto Fujimori, who was convicted of human rights abuses and corruption, has died aged 86, his daughter has confirmed.\r\nFujimori governed Peru between 1990 and 2000 before b… [+404 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ScienceAlert"
+                "name": "BBC News"
             },
-            "author": "Michelle Starr, Michelle Starr",
-            "title": "FDA-Approved Antidepressant Treats Incurable Brain Cancer in Preclinical Trial - ScienceAlert",
-            "description": "This is promising.",
-            "url": "https://www.sciencealert.com/fda-approved-antidepressant-treats-incurable-brain-cancer-in-preclinical-trial",
-            "urlToImage": "https://www.sciencealert.com/images/2024/10/glioblastoma.jpg",
-            "publishedAt": "2024-10-01T07:04:21Z",
-            "content": "A widely available and inexpensive antidepressant drug may soon save lives from an altogether different kind of disease.\r\nThe growth of the most aggressive and deadly brain cancer, glioblastoma, was … [+4525 chars]"
-        }
+            "author": null,
+            "title": "Donor from ‘down the road’ saved my life after global search",
+            "description": "Alison Belsham was twice diagnosed with leukaemia, but is now cancer-free thanks to a donor.",
+            "url": "https://www.bbc.com/news/articles/c99vxgxn3rvo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/373f/live/ccee6e20-77f7-11ef-b282-4535eb84fe4b.jpg",
+            "publishedAt": "2024-09-21T09:00:05Z",
+            "content": "Cancer: Stem cell donor in Australia saves Newport woman's life\r\nA blood cancer survivor has said there can \"never be enough words\" to express thanks to a stem cell donor in Australia who saved her l… [+2836 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Woman with cancer warns of rare breast implant risk",
+            "description": "Susan Axelby has received £57,000 after developing a cancer linked to a type of breast implant.",
+            "url": "https://www.bbc.com/news/articles/cwyjg8gzd4lo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/19fd/live/eb0791f0-660b-11ef-a04d-25d7e12eecf1.jpg",
+            "publishedAt": "2024-09-03T23:07:20Z",
+            "content": "A woman who developed a rare type of cancer linked to her breast implants has warned that girls with similar implants could be \"walking around like timebombs\".\r\nSusan Axelby, 68, was recently paid £5… [+3748 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Teen told she had 'good cancer' died from treatment",
+            "description": "The mother of a girl who died after being diagnosed with blood cancer says there is a lack of support in Wales.",
+            "url": "https://www.bbc.com/news/articles/cwyw0v8989xo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/79eb/live/ac433920-69f7-11ef-b160-4f66eeb2fee5.jpg",
+            "publishedAt": "2024-09-03T21:48:45Z",
+            "content": "Emily and her family were reassured her cancer was not life-threatening, but she died from complications\r\nWhen Emily was diagnosed with non-Hodgkin lymphoma, doctors told her it was a good cancer to … [+4310 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "King to attend barbecue and meet PM on Australia trip",
+            "description": "The King will travel to Australia on his biggest trip overseas since he began treatment for cancer.",
+            "url": "https://www.bbc.com/news/articles/cp35en2971go",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/33af/live/0ddac050-6f88-11ef-b410-fbf02dca0fc5.jpg",
+            "publishedAt": "2024-09-10T15:22:24Z",
+            "content": "King Charles III and Queen Camilla will sample a traditional barbecue, along with more formal ceremonial engagements, when they visit Australia next month.\r\nThe trip will be the King's biggest overse… [+2167 chars]"
+        },
     ]
 }
