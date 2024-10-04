@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Justin Stebbing, The Conversation, The Conversation",
+            "title": "New Report Links Alcohol to Six Major Cancer Types - ScienceAlert",
+            "description": "The statistics are sobering.",
+            "url": "https://www.sciencealert.com/new-report-links-alcohol-to-six-major-cancer-types",
+            "urlToImage": "https://www.sciencealert.com/images/2018-08/processed/alcohol_deaths_GBD_1024.jpg",
+            "publishedAt": "2024-10-03T01:30:20Z",
+            "content": "A little bit of alcohol was once thought to be good for you. However, as scientific research advances, we're gaining a clearer picture of alcohol's effect on health especially regarding cancer.\r\nThe … [+5441 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newser"
+            },
+            "author": "Arden Dier",
+            "title": "Breast Cancer Rates Climb Among the Young - Newser",
+            "description": "American Cancer Society report describes steady increase in diagnoses",
+            "url": "https://www.newser.com/story/357190/on-the-upward-trend-breast-cancer-before-50.html",
+            "urlToImage": "https://img2-azrcdn.newser.com/image/1563633-12-20241002165317.jpeg",
+            "publishedAt": "2024-10-02T21:23:00Z",
+            "content": "Overall death rates from breast cancer have fallen 44% over the last 35 years and by about 10% over the last decade. That's the good news. The bad news is that for American Indian and Alaska Native w… [+1801 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-02T16:12:25Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Rudy",
+            "title": "To reduce cancer risk, researchers recommend adopting these 4 healthy habits - Fox News",
+            "description": "Up to half of all cancers are caused by behavioral risk factors — which means they’re preventable. Researchers across Mass General Brigham have compiled four strategies for reducing risk.",
+            "url": "https://www.foxnews.com/health/reduce-cancer-risk-researchers-recommend-adopting-healthy-habits",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/cancer-prevention-split-1.jpg",
+            "publishedAt": "2024-10-02T08:30:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+5586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WABC-TV"
+            },
+            "author": "Stacey Sager",
+            "title": "Breast Cancer Awareness Month: Joan Lunden reflects 10 years after beating disease, urges women to be aware of breast density - ABC7 New York",
+            "description": "Ten years after she beat stage two triple negative breast cancer, former \"Good Morning America\" co-host Joan Lunden is fighting to help other women",
+            "url": "https://abc7ny.com/post/breast-cancer-awareness-month-joan-lunden-reflects-10-years-after-beating-disease-urges-women-aware-density/15379170/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/15379699_100124-wabc-joan-lunden-img.jpg?w=1600",
+            "publishedAt": "2024-10-01T15:24:47Z",
+            "content": "NEW YORK (WABC) -- Former \"Good Morning America\" co-host Joan Lunden is urging women to be aware of the link between the density of their breast tissue and their breast cancer risk.\r\nIn June 2014, Lu… [+2116 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Michelle Starr, Michelle Starr",
+            "title": "FDA-Approved Antidepressant Treats Incurable Brain Cancer in Preclinical Trial - ScienceAlert",
+            "description": "This is promising.",
+            "url": "https://www.sciencealert.com/fda-approved-antidepressant-treats-incurable-brain-cancer-in-preclinical-trial",
+            "urlToImage": "https://www.sciencealert.com/images/2024/10/glioblastoma.jpg",
+            "publishedAt": "2024-10-01T07:04:21Z",
+            "content": "A widely available and inexpensive antidepressant drug may soon save lives from an altogether different kind of disease.\r\nThe growth of the most aggressive and deadly brain cancer, glioblastoma, was … [+4525 chars]"
+        }
+    ]
+}
